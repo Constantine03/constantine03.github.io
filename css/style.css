@@ -1,0 +1,36 @@
+* {
+  font-family: Tahoma;
+}
+body {
+  background-color: #F2F2F2;
+}
+.first_block,
+.second_block,
+.third_block {
+  border-bottom: 2px solid lightgray;
+}
+.vk_link,
+.phone_number,
+.feedback {
+  padding-left: 40px;
+}
+.vk_link>a {
+  font-style: italic;
+  font-weight: bold;
+  color: blue;
+}
+
+.wrapper {
+  text-align: center;
+}
+.wrapper>div {
+  width: 675px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.zero_block {
+  text-align: center;
+  text-transform: uppercase;
+}
